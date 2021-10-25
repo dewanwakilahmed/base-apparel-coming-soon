@@ -9,3 +9,21 @@
 body {
   font-family: 'Josefin Sans', sans-serif;
 }
+
+.base-apparel-container {
+  min-height: 100vh;
+  display: flex;
+}
+
+.base-apparel-container-left {
+  width: 60%;
+}
+
+.base-apparel-container-right {
+  width: 40%;
+}
+
+.hero-img {
+  background-image: url(./images/hero-desktop.jpg);
+  background-size: cover;
+}
